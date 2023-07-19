@@ -4,11 +4,11 @@ export default function Index() {
   return (
     <Page>
       <Text variant="h2" className="mb-6">
-        Password-protected page demo
+        Verificación exitosa.
       </Text>
       <List>
-        <li>Username: 4dmin</li>
-        <li>Password: testpwd123</li>
+        <li></li>
+        <li></li>
       </List>
     </Page>
   )
