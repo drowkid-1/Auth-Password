@@ -9,7 +9,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
   return (
     <Layout
       title="Password Protected"
-      path="basic-auth-password"
+      path="hsu"
     >
       <Component {...pageProps} />
     </Layout>
